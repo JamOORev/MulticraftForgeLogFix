@@ -1,0 +1,6 @@
+/build
+/eclipse
+/.gradle
+*.iml
+*.ipr
+*.iws
