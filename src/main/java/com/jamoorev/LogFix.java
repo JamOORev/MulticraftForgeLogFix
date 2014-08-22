@@ -9,7 +9,7 @@ import org.apache.logging.log4j.core.LoggerContext;
 import org.apache.logging.log4j.core.config.Configuration;
 import org.apache.logging.log4j.core.layout.PatternLayout;
 
-@Mod(modid = "LogFix", name = "ModFix", version = "1.0", acceptableRemoteVersions="*")
+@Mod(modid = "LogFix", name = "LogFix", version = "1.0", acceptableRemoteVersions="*")
 public class LogFix {
 
     @EventHandler
